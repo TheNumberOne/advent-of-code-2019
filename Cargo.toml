@@ -6,4 +6,26 @@ edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[[bin]]
+name = "day-1-1"
+path = "src/day-1-1.rs"
+
+[[bin]]
+name = "day-1-2"
+path = "src/day-1-2.rs"
+
+[[bin]]
+name = "day-2-1"
+path = "src/day-2-1.rs"
+[[bin]]
+name = "day-2-2"
+path = "src/day-2-2.rs"
+
+[[bin]]
+name = "day-3-1"
+path = "src/day-3-1.rs"
+[[bin]]
+name = "day-3-2"
+path = "src/day-3-2.rs"
+
 [dependencies]
