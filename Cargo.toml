@@ -63,6 +63,10 @@ name = "day-9"
 path = "src/day-9.rs"
 
 [[bin]]
+name = "day-10"
+path = "src/day-10.rs"
+
+[[bin]]
 name = "day-12-1"
 path = "src/day-12-1.rs"
 [[bin]]
@@ -78,3 +82,4 @@ num-traits = "0.2.10"
 failure = "0.1.6"
 failure_derive = "0.1.6"
 enum-primitive-derive = "0.1.2"
+gcd = "1.2.0"
